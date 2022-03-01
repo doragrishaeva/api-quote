@@ -1,4 +1,4 @@
-import quotesRu from './quotes.json' assert { type: "json" };
+import quotesRu from './quotes.js';
 import i18Obj from './translate.js';
 
 let quotes = [];
